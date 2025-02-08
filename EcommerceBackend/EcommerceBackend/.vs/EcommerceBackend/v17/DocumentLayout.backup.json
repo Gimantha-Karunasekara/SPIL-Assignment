@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1514,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,10 +77,6 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OrdersController.cs",
@@ -103,8 +99,7 @@
               "RelativeToolTip": "EcommerceBackend\\Controllers\\CartController.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAwwE8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:46:33.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T02:46:33.353Z"
             },
             {
               "$type": "Document",
@@ -116,8 +111,7 @@
               "RelativeToolTip": "EcommerceBackend\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:40:47.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T02:40:47.966Z"
             },
             {
               "$type": "Document",
@@ -129,8 +123,7 @@
               "RelativeToolTip": "EcommerceBackend\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:39:47.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T02:39:47.837Z"
             },
             {
               "$type": "Document",
@@ -191,6 +184,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T02:34:19.479Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
